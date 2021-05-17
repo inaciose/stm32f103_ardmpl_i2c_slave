@@ -11,3 +11,5 @@ board = genericSTM32F103C8
 board_build.core = maple
 
 Master for test it at:
+
+https://github.com/inaciose/esp32cam_ard_i2c_master
